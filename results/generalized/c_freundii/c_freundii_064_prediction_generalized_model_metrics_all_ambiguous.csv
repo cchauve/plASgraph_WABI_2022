@@ -1,0 +1,2 @@
+isolate,recall,specificity,precision,accuracy,f1_score,tp,fp,fn,tn
+c_freundii_064,1.0,0.9514563106796117,0.375,0.9528301886792453,0.5454545454545454,3,5,0,98

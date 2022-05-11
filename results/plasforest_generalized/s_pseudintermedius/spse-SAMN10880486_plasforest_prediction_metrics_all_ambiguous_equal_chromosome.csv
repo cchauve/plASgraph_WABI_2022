@@ -1,0 +1,2 @@
+isolate,recall,specificity,precision,accuracy,f1_score,tp,fp,fn,tn
+spse-SAMN10880486,1.0,0.0,0.9166666666666666,0.9166666666666666,0.9565217391304348,55,5,0,0

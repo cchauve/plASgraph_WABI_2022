@@ -1,0 +1,2 @@
+isolate,recall,specificity,precision,accuracy,f1_score,tp,fp,fn,tn
+koxy-SAMN15148527,1.0,0.9651162790697675,0.5,0.9662921348314607,0.6666666666666666,3,3,0,83

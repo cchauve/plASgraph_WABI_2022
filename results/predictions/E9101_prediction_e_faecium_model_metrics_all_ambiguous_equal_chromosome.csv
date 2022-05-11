@@ -1,0 +1,2 @@
+isolate,recall,specificity,precision,accuracy,f1_score,tp,fp,fn,tn
+E9101,0.9716981132075472,,1.0,0.9716981132075472,0.985645933014354,103,0,3,0

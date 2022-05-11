@@ -1,0 +1,2 @@
+isolate,recall,specificity,precision,accuracy,f1_score,tp,fp,fn,tn
+ecol-SAMN15148263,0.5933333333333334,1.0,1.0,0.6411764705882353,0.7447698744769875,89,0,61,20

@@ -1,0 +1,2 @@
+isolate,recall,specificity,precision,accuracy,f1_score,tp,fp,fn,tn
+vpar-SAMEA5540085,0.0,0.9122807017543859,0.0,0.7647058823529411,,0,5,11,52

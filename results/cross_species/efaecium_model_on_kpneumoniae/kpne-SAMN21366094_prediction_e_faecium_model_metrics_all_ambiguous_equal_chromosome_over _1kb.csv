@@ -1,0 +1,2 @@
+isolate,recall,specificity,precision,accuracy,f1_score,tp,fp,fn,tn
+kpne-SAMN21366094,1.0,0.10204081632653061,0.41333333333333333,0.45,0.5849056603773585,31,44,0,5

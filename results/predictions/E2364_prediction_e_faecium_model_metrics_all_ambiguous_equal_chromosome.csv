@@ -1,0 +1,2 @@
+isolate,recall,specificity,precision,accuracy,f1_score,tp,fp,fn,tn
+E2364,1.0,0.0,0.9777777777777777,0.9777777777777777,0.9887640449438202,44,1,0,0
